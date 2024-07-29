@@ -91,6 +91,8 @@ class Productdetails extends StatelessWidget {
           )
         ],
       ),
+
+
       floatingActionButton: Container(
         margin: EdgeInsets.only(left: 30),
         height: 50,
