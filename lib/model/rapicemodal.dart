@@ -1,5 +1,5 @@
 class RacipesModal {
-  late List racipeslist = [];
+  late List <details> racipeslist = [];
 
   RacipesModal({required this.racipeslist});
 
